@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Fruitcrush</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="btn_login">Iniciar sessió</string>
+    <string name="btn_register">Registrar-se</string>
+    <string name="title_activity_account_menu">Menú del compte</string>
+    <string name="correoEt">Correu</string>
+    <string name="nombreEt">Nom</string>
+    <string name="passEt">Contrasenya</string>
+    <string name="fechaTxt">Data</string>
+    <string name="Login">Iniciar sessió</string>
+    <string name="Registrar">REGISTRAR-SE</string>
+    <string name="fragment1str">Institut Sant Viçenc de Castellet</string>
+    <string name="modul">Desenvolupament de Aplicacions Multiplataforma</string>
+    <string name="any">2024</string>
+    <string name="fragment2str">Fragment2</string>
+    <string name="nom1">Pol Morell</string>
+    <string name="nom2">Damian Pulido</string>
+    <string name="fet_per">Fet per:</string>
+    <string name="tornar_al_men">Tornar al Menú</string>
+
+    <string name="title_activity_acc_register">acc_register</string>
+    <string name="title_activity_account_register">AccountRegister</string>
+    <string name="title_activity_account_login">AccountLogin</string>
+    <string name="tancarSessio">Tancar sessió</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="miPuntuaciotxt">Puntuació</string>
+    <string name="puntuacio"> -- </string>
+    <string name="uid"> -- </string>
+    <string name="correo"> -- </string>
+    <string name="nom"> -- </string>
+    <string name="MenuTxt">MENÚ</string>
+    <string name="jugarBtn">Jugar</string>
+    <string name="PuntuacionsBtn">Puntuacions</string>
+    <string name="CreditsBtn">Crèdits</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_level_menu">Menú nivells</string>
+    <string name="title_activity_lvl1">lvl1</string>
+    <string name="memory_master">Fruit Crush</string>
+    <string name="zero">0</string>
+    <string name="win">HAS GUANYAT!!!</string>
+    <string name="return_to_menu">Tornar al menu</string>
+    <string name="title_activity_lvl">lvl</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="edatEt">Edat</string>
+    <string name="poblacioEt">Població</string>
+    <string name="edat"> -- </string>
+    <string name="poblacio"> -- </string>
+    <string name="editarBtn">Canviar Imatge</string>
+    <string name="title_activity_llistat_jugadors">LlistatJugadors</string>
+
+</resources>

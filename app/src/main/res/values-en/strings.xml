@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Fruitcrush</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="btn_login">Log in</string>
+    <string name="btn_register">Sign in</string>
+    <string name="title_activity_account_menu">Account menu</string>
+    <string name="correoEt">E-mail</string>
+    <string name="nombreEt">Name</string>
+    <string name="passEt">Password</string>
+    <string name="fechaTxt">Datetime</string>
+    <string name="Login">Log in</string>
+    <string name="Registrar">Sign in</string>
+    <string name="fragment1str">Institut Sant Viçenc de Castellet</string>
+    <string name="modul">Multiplatform app development</string>
+    <string name="any">2024</string>
+    <string name="fragment2str">Fragment2</string>
+    <string name="nom1">Pol Morell</string>
+    <string name="nom2">Damian Pulido</string>
+    <string name="fet_per">Done by:</string>
+    <string name="tornar_al_men">Back to menu</string>
+
+    <string name="title_activity_acc_register">acc_register</string>
+    <string name="title_activity_account_register">AccountRegister</string>
+    <string name="title_activity_account_login">AccountLogin</string>
+    <string name="tancarSessio">Log out</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="miPuntuaciotxt">Score</string>
+    <string name="puntuacio"> -- </string>
+    <string name="uid"> -- </string>
+    <string name="correo"> -- </string>
+    <string name="nom"> -- </string>
+    <string name="MenuTxt">MENU</string>
+    <string name="jugarBtn">Play</string>
+    <string name="PuntuacionsBtn">Scores</string>
+    <string name="CreditsBtn">Credits</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_level_menu">Level Menu</string>
+    <string name="title_activity_lvl1">lvl1</string>
+    <string name="memory_master">Fruit Crush</string>
+    <string name="zero">0</string>
+    <string name="win">YOU WON!!!</string>
+    <string name="return_to_menu">Back to the menu</string>
+    <string name="title_activity_lvl">lvl</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="edatEt">Age</string>
+    <string name="poblacioEt">City</string>
+    <string name="edat"> -- </string>
+    <string name="poblacio"> -- </string>
+    <string name="editarBtn">Change img</string>
+</resources>
